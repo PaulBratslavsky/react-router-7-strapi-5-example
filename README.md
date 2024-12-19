@@ -30,7 +30,7 @@ For Developers:
 
 ## React Router 7 and Strapi 5 Integration
 
-## 1.1 Setup Strapi 5
+## Setup Strapi 5
 
 We are going to start by setting up our Strapi 5 project with the following command:
 
